@@ -16,4 +16,4 @@ If you find our work helpful for your research, please consider citing our work.
 
 ```
 
-This project is applying for a patent. In order to comply with relevant laws and regulations, this project will be open source after the patent application is successful.
+This project is applying for a patent. In order to comply with relevant laws and regulations, this project will be open source after the patent application process is completed.
