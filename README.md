@@ -9,7 +9,7 @@ If you find our work helpful for your research, please consider citing our work.
 ```bibtex
 @inproceedings{ji2025sonic,
   title={APasco: High Fidelity Audio-Driven Portrait Animitation based on Audio-Lip Multi-Head Cross-Attention and 3D Dense Geometric Prior},
-  author={Xie, Jinhan and Liu, Kanglin and Bao, Zhenyu and Li, Qing},
+  author={Jinhan, Xie and Kanglin, Liu and Zhenyu, Bao and Qing, Li},
   booktitle={Proceedings of the 28th European Conference on Artificial Intelligence},
   year={2025}
 }
