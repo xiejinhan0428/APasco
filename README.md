@@ -1,7 +1,7 @@
 # APasco
 APasco: High Fidelity Audio-Driven Portrait Animitation based on Audio-Lip Multi-Head Cross-Attention and 3D Dense Geometric Prior, ECAI 2025
 
-For more visual demos, please visit our [**Page**]().
+For more visual demos, please visit our [**Supplementary Material**](https://github.com/xiejinhan0428/APasco/tree/main/Supplementary%20Material).
 
 ## 🔗 Citation
 
